@@ -1,0 +1,1 @@
+Programa que utiliza a biblioteca MPC 4.7 para criação de uma interface gráfica de edição de texto.
